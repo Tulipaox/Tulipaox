@@ -1,9 +1,11 @@
-### Hello! I'm Filipe Lima 👋
+### Hey there! I'm Filipe Lima 👋
 
-🎓 Development student passionate about technology, programming, and smart solutions.  
-💻 Focused on **back-end development** with skills in **JavaScript, TypeScript, Node.js, Express, PostgreSQL, Prisma, and Git**.
-🔐 Interested in **Cybersecurity** and **scalable applications**, always looking to learn new technologies.  
-🚀 Currently looking for my first opportunity as a **Junior Developer** or **Intern** to apply my skills and grow technically.
+🎓 **Currently studying Analysis and Systems Development (ADS) at UniFecaf**  
+💻 Passionate about **back-end development**, with hands-on experience in **JavaScript, TypeScript, Node.js, Express, PostgreSQL, Prisma**, and **Git**.  
+🔐 Interested in **Cybersecurity**, modern architectures, and constantly exploring new technologies to improve as a developer.  
+🚀 Currently open to my **first opportunity** as a **Junior Developer** or **Intern**, where I can grow through real-world experience, apply what I’ve learned, and contribute to awesome projects.
+
+---
 
 ### 🧩 About Me
 - 🏋️‍♂️ Passionate about **web development**, **cybersecurity**, and always learning new tech
@@ -25,7 +27,8 @@
 
 ---
 
-### 📫 Let's connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lima-ox)
+### 📫 Let’s connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lima-ox)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
-> “Motivation brought me this far. Discipline will take me further.” 🚀
+> "Motivation brought me this far. Discipline will take me further." 🚀
