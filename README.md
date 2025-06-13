@@ -1,4 +1,4 @@
-### Hey there! I'm Filipe Lima 👋
+### Hey there! I'm Filipe Lima
 
 🎓 **Currently studying Analysis and Systems Development (ADS) at UniFecaf**  
 💻 Passionate about **back-end development**, with hands-on experience in **JavaScript, TypeScript, Node.js, Express, PostgreSQL, Prisma**, and **Git**.  
