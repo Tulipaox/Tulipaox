@@ -8,10 +8,10 @@
 ---
 
 ### 🧩 About Me
-- 🏋️‍♂️ Passionate about **web development**, **cybersecurity**, and always learning new tech
+- 🏋️‍♂️ Passionate about **back-end development**, **cybersecurity**, and always learning new tech
 - 🎮 Gamer at heart — I love immersive games and well-written storylines
 - 🎧 Music fuels my coding sessions (especially with a good bass line!)
-- 🐱 I’m a certified cat person... and secretly obsessed with **otters** 🦦
+- 🐈‍⬛ I’m a certified cat person... and secretly obsessed with **otters** 🦦
 - 🏋️ Gym enthusiast — balancing mind and body
 
 ---
