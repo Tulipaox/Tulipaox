@@ -40,7 +40,7 @@
 
 Se você curte código limpo, projetos legais e um dev que aprende rápido, me chama!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Lima-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lima-ox)  
-[![GitHub](https://img.shields.io/badge/GitHub-@filipeox-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-@filipeox-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tulipaox)
 
 ---
 
