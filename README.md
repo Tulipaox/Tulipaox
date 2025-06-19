@@ -1,34 +1,52 @@
-### Hey there! I'm Filipe Lima
+# 👋 Olá! Eu sou o Filipe Lima
 
-🎓 **Currently studying Analysis and Systems Development (ADS) at UniFecaf**  
-💻 Passionate about **back-end development**, with hands-on experience in **JavaScript, TypeScript, Node.js, Express, PostgreSQL, Prisma**, and **Git**.  
-🔐 Interested in **Cybersecurity**, modern architectures, and constantly exploring new technologies to improve as a developer.  
-🚀 Currently open to my **first opportunity** as a **Junior Developer** or **Intern**, where I can grow through real-world experience, apply what I’ve learned, and contribute to awesome projects.
-
----
-
-### 🧩 About Me
-- 🏋️‍♂️ Passionate about **back-end development**, **cybersecurity**, and always learning new tech
-- 🎮 Gamer at heart — I love immersive games and well-written storylines
-- 🎧 Music fuels my coding sessions (especially with a good bass line!)
-- 🐈‍⬛ I’m a certified cat person... and secretly obsessed with **otters** 🦦
-- 🏋️ Gym enthusiast — balancing mind and body
+🚀 Estudante de **Análise e Desenvolvimento de Sistemas** na UniFecaf  
+💻 Apaixonado por tudo que envolve **back-end**, com foco em **Node.js**, **TypeScript**, **PostgreSQL** e boas práticas de código  
+🔐 Curioso por **cibersegurança**, arquiteturas modernas e como tornar aplicações mais seguras e escaláveis  
+🎯 Em busca da **minha primeira oportunidade como Dev Júnior ou Estagiário**, onde eu possa colocar a mão no código, aprender na prática e crescer junto com o time!
 
 ---
 
-### 🛠️ Technologies & Tools  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+## 🧠 Um pouco sobre mim
+
+- 🤓 Amo entender o que acontece por trás dos bastidores da tecnologia
+- 🎮 Gamer raiz — se o jogo tem história boa, já ganhou minha atenção
+- 🎧 Música é meu combustível quando estou codando (bass boost no talo!)
+- 🐱 Apaixonado por gatos e... **lontras** 🦦 (não julgue até ver uma tomando banho)
+- 🏋️‍♂️ Viciado em academia — dev forte no corpo e no código
 
 ---
 
-### 📫 Let’s connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lima-ox)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario)
+## 🛠️ Tecnologias que uso com frequência
 
-> "Motivation brought me this far. Discipline will take me further." 🚀
+| Linguagens | Frameworks & Ferramentas | Banco de Dados |
+|-----------|--------------------------|----------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Zod](https://img.shields.io/badge/Zod-4A5568?style=flat&logo=zod&logoColor=white) | |
+
+---
+
+## 🌱 O que estou aprendendo agora
+
+- 🐳 **Docker** para facilitar a vida no ambiente de desenvolvimento
+- 🧪 **Jest** para escrever testes mais robustos
+- 🔐 Fundamentos de **cibersegurança** voltados para APIs RESTful
+- 📦 Boas práticas com **arquitetura limpa** e separação de responsabilidades
+
+---
+
+## 📫 Bora conversar?
+
+Se você curte código limpo, projetos legais e um dev que aprende rápido, me chama!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Lima-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lima-ox)  
+[![GitHub](https://img.shields.io/badge/GitHub-@filipeox-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+
+---
+
+> 💬 *"Motivação me trouxe até aqui. Disciplina vai me levar além."*
+
+---
+
+🎯 Se você procura um estagiário ou júnior que **não tem medo de errar, adora aprender e resolve problemas com foco e humor**, manda mensagem!  
+Vamos construir algo incrível juntos. ✨
